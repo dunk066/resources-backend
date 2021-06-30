@@ -1,0 +1,7 @@
+As you progress through your discovery of GCP, keep in mind those key resources :
+Documentation → http://goo.gle/3oEBV1f 
+In-depth tutorials → http://goo.gle/3r6nhBw 
+Support → http://goo.gle/3pxvGxo 
+Training → http://goo.gle/3iZxZ9M 
+Free Codelabs →https://g.co/codelabs/cloud 
+Qwiklabs → https://goo.gle/2XhRrqL
